@@ -1,0 +1,47 @@
+Write a Python program that prompts the user to input 3 numbers, one at a time. The Python program should put the numbers in a list, sort the list, and print the sorted list. Executing the program should produce results something like this:
+
+Enter a number:
+
+5
+
+Enter a number:
+
+4
+
+Enter a number:
+
+3
+
+3, 4, 5
+
+>>>
+
+Turn in your source code and a screenshot showing a full execution of your program and the result that it prints to the screen. In the execution that you take a screenshot of, you should enter the numbers in non-sorted order so that we can tell that sorting did occur.
+
+Hints:
+
+PWrite a Python program that prompts the user to input 3 numbers, one at a time. The Python program should put the numbers in a list, sort the list, and print the sorted list. Executing the program should produce results something like this:
+
+Enter a number:
+
+5
+
+Enter a number:
+
+4
+
+Enter a number:
+
+3
+
+3, 4, 5
+
+>>>
+
+Turn in your source code and a screenshot showing a full execution of your program and the result that it prints to the screen. In the execution that you take a screenshot of, you should enter the numbers in non-sorted order so that we can tell that sorting did occur.
+
+Hints:
+
+1. Python lists have a built-in sort() method that you could use.
+2. The input() function will accept input from the user at the command line.ython lists have a built-in sort() method that you could use.
+The input() function will accept input from the user at the command line.
